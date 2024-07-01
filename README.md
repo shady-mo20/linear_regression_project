@@ -109,16 +109,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
     git push origin master
     ```
 
-### Commit changes
-
-**Commit summary**  
-Add files via upload
-
-**Optional extended description**  
-Add an optional extended description…
-
-**Commit directly to the main branch.**
-
 **Create a new branch for this commit and start a pull request. Learn more about pull requests.**
 
 By following these steps, you will have a detailed and comprehensive README.md file on GitHub, helping visitors to better understand and use your project. If you have any modifications or additions to include, you can edit the file accordingly. Don't forget to replace `path/to/your/screenshot.png` with the actual path to your screenshot image file.

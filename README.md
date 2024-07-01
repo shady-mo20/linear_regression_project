@@ -97,12 +97,7 @@ Provides a graphical user interface using PyQt5:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Acknowledgements
 
-This project is inspired by the teachings of Dr. Mostafa Saad.
-```
-
-### How to Create and Add README.md:
 
 1. Open a text editor (like Notepad or VS Code) and create a new file.
 2. Copy and paste the above content into the file.
@@ -114,4 +109,16 @@ This project is inspired by the teachings of Dr. Mostafa Saad.
     git push origin master
     ```
 
-By following these steps, you will have a detailed and comprehensive README.md file on GitHub, helping visitors to better understand and use your project. If you have any modifications or additions to include, you can edit the file accordingly.
+### Commit changes
+
+**Commit summary**  
+Add files via upload
+
+**Optional extended description**  
+Add an optional extended description…
+
+**Commit directly to the main branch.**
+
+**Create a new branch for this commit and start a pull request. Learn more about pull requests.**
+
+By following these steps, you will have a detailed and comprehensive README.md file on GitHub, helping visitors to better understand and use your project. If you have any modifications or additions to include, you can edit the file accordingly. Don't forget to replace `path/to/your/screenshot.png` with the actual path to your screenshot image file.

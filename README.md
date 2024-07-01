@@ -1,6 +1,3 @@
-فهمت الآن، سأقوم بكتابة كل النص على شكل كود Markdown. يمكنك نسخه مباشرةً ولصقه في ملف README.md.
-
-```markdown
 # linear_regression_project
 
 This project implements linear regression using both gradient descent and normal equations. The project includes several components to demonstrate the concepts of linear regression and its implementation in Python.
@@ -100,19 +97,21 @@ Provides a graphical user interface using PyQt5:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## Acknowledgements
 
+This project is inspired by the teachings of Dr. Mostafa Saad.
 ```
 
-### كيفية إنشاء وإضافة ملف README.md:
+### How to Create and Add README.md:
 
-1. افتح محرر نصوص (مثل Notepad أو VS Code) وقم بإنشاء ملف جديد.
-2. انسخ والصق المحتوى أعلاه في الملف.
-3. احفظ الملف باسم `README.md` في مجلد مشروعك.
-4. أضف الملف إلى مستودع Git الخاص بك وقم بدفع التغييرات إلى GitHub:
+1. Open a text editor (like Notepad or VS Code) and create a new file.
+2. Copy and paste the above content into the file.
+3. Save the file as `README.md` in your project directory.
+4. Add the file to your Git repository and push the changes to GitHub:
     ```sh
     git add README.md
     git commit -m "Add README.md"
     git push origin master
     ```
 
-باتباع هذه الخطوات، سيكون لديك ملف README.md مفصل ومفصل على GitHub، مما يساعد الزوار على فهم مشروعك بشكل أفضل وكيفية استخدامه. إذا كان لديك أي تعديلات أو إضافات تريد تضمينها، يمكنك تعديل الملف وفقًا لذلك.
+By following these steps, you will have a detailed and comprehensive README.md file on GitHub, helping visitors to better understand and use your project. If you have any modifications or additions to include, you can edit the file accordingly.
